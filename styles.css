@@ -6,7 +6,7 @@
 Selects all image tags and makes them 500px;
  */
 img {
-  width: 100px;
+  width: 500px;
 }
 
 .gallery-container {
